@@ -63,29 +63,29 @@ I like taking complex, messy datasets and turning them into **clean, trusted, an
 - **Microsoft Azure Data Fundamentals (DP-900)**
 - **Microsoft Fabric Data Engineer (DP-600)**
 - **Microsoft Power BI Data Analyst (PL-300)**
-- **Oracle Certified Associate**
-- **SQL (Advanced) – Verified**
-- **HubSpot Certification**
+- **Oracle Certified Java Associate**
+- **SQL (Advanced) – HackerRank**
+- **Digital Marketing HubSpot Certification**
 
 ---
 
 ## 🛠️ Tech Stack (Visual)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,azure,aws,gcp,docker,git,mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,ms sql server,azure,aws,gcp,docker,git,mysql,postgresql,mongodb" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivek3120&show_icons=true&theme=default" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://sites.google.com/view/vivekpandey-portfolio  
-- 💼 LinkedIn: YOUR_LINKEDIN_URL  
-- 📧 Email: yourname@email.com  
+- 💼 LinkedIn: www.linkedin.com/in/vivek-pandey31  
+- 📧 Email: vihaanpandey3169@gmail.com  
 
 ⭐ *Always learning. Always building reliable data systems.*
