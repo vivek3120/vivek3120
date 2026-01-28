@@ -71,7 +71,7 @@ I like taking complex, messy datasets and turning them into **clean, trusted, an
 
 ## 🛠️ Tech Stack (Visual)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mssqlserver,azure,aws,gcp,docker,git,mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,azure,aws,gcp,docker,git,mysql,postgresql,mongodb" />
 </p>
 
 ---
