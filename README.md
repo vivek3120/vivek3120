@@ -71,16 +71,16 @@ I like taking complex, messy datasets and turning them into **clean, trusted, an
 
 ## 🛠️ Tech Stack (Visual)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ms sql server,azure,aws,gcp,docker,git,mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,mssqlserver,azure,aws,gcp,docker,git,mysql,postgresql,mongodb" />
 </p>
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vivek3120&show_icons=true&theme=default" />
 </p>
-
+-->
 ---
 
 ## 📫 Connect With Me
