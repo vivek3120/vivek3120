@@ -3,7 +3,7 @@
 ### Data Engineer | Cloud & Analytics | ETL & Data Platforms
 
 I’m a **Data Engineer** focused on building **scalable, reliable, and production-ready data systems**.  
-I enjoy working across the full data lifecycle - from ingestion and transformation to analytics and monitoring — with a strong emphasis on **cloud platforms and performance optimization**.
+I enjoy working across the full data lifecycle - from ingestion and transformation to analytics and monitoring - with a strong emphasis on **cloud platforms and performance optimization**.
 
 I like taking complex, messy datasets and turning them into **clean, trusted, analytics-ready data** that teams can confidently use.
 
