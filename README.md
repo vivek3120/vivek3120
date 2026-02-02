@@ -61,7 +61,7 @@ I like taking complex, messy datasets and turning them into **clean, trusted, an
 
 ## ☁️ Certifications
 - **Microsoft Azure Data Fundamentals (DP-900)**
-- **Microsoft Fabric Data Engineer (DP-600)**
+- **Microsoft Fabric Data Engineer (DP-700)**
 - **Microsoft Power BI Data Analyst (PL-300)**
 - **Oracle Certified Java Associate**
 - **SQL (Advanced) – HackerRank**
